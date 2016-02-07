@@ -1,6 +1,9 @@
-Revision history for Perl extension Lingua::PT::Stemmer.
+Revision history for Perl module Lingua::PT::Stemmer
 
-0.01  Sun Jan 26 02:33:08 2003
-	- original version; created by h2xs 1.21 with options
-		-XA Lingua::PT::Stemmer
+0.02 2016-02-07 NEILB
+    - Updated format of this file to follow CPAN::Changes::Spec
+
+0.01 2003-01-28 XERN
+    - original version; created by h2xs 1.21
+      with options -XA Lingua::PT::Stemmer
 
