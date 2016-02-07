@@ -1,8 +1,8 @@
 package Lingua::GL::Stemmer;
+
 use 5.006;
 use strict;
 use warnings;
-our $VERSION = '0.01';
 my $aa = "\xe1";
 my $ea = "\xe9";
 my $ia = "\xed";
